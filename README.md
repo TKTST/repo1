@@ -5,6 +5,3 @@ sd
 
 fgnjn
 
-
-n
-nm
